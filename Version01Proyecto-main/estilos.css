@@ -1,0 +1,21 @@
+h1 {
+    color: #603fe5;
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+}
+
+.contenedor01 {
+    width: 1240px;
+    margin: 0 auto 0 auto;
+}
+
+.fila01 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.columna01 {
+    width: 50%;
+    width: 99%;
+}
